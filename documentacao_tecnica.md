@@ -1,5 +1,20 @@
 # Documentação Técnica – Composição Familiar BPC 2025
 
+# Documentação Técnica – Composição Familiar BPC 2025
+
+## 📚 Índice
+
+- [Objetivo](#objetivo)
+- [Fonte de Dados](#fonte-de-dados)
+- [Etapas do Processo](#etapas-do-processo)
+  - [1. CTE FAMILIA](#1-cte-familia)
+  - [2. CTE NB_REFERENCIA](#2-cte-nb_referencia)
+  - [3. Seleção Final](#3-seleção-final)
+- [Observações Técnicas](#observações-técnicas)
+- [Finalidade](#finalidade)
+- [Autor](#autor)
+
+
 ## Objetivo
 
 Este processo visa gerar a recomposição familiar dos beneficiários do BPC com base no CadÚnico e registros da TB_MACICA, classificando vínculos familiares com lógica baseada no grau de parentesco do NB de referência da família.
