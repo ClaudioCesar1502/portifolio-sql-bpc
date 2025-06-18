@@ -1,7 +1,5 @@
 # Documentação Técnica – Composição Familiar BPC 2025
 
-# Documentação Técnica – Composição Familiar BPC 2025
-
 ## 📚 Índice
 
 - [Objetivo](#objetivo)
