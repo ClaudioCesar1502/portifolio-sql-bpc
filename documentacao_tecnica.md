@@ -39,7 +39,7 @@ Seleciona o **primeiro NB válido** por família como referência, considerando:
 
 - `CS_ESPECIE` entre 87 e 88 (BPC-Idoso e BPC-PCD)
 - `CS_SIT_BENEF = 0` (ativo)
-- `CS_PA <> 3` (não cancelado)
+- `CS_PA <> 3` (Difere de: COM PENSAO - TITULAR PENSAO ALIMENTICIA (Não é um beneficio, é a pensão alimenticia, que sai de um beneficio) )
 - Apenas NB com `IN_MARC_BPC = 1`
 
 ### 3. Seleção Final
