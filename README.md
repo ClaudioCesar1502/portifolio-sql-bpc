@@ -19,7 +19,7 @@ Criar uma tabela estruturada contendo os membros das famílias vinculadas ao BPC
 
 ## 🗂 Base de Dados Utilizada
 
-- View: `P_DBAP_ACC.VW_MACICA_202503_CADUN_202503`
+- View: `P_DBAP_ACC.VW_MACICA_202504_CADUN_202505`
 - Ambiente: Teradata
 
 ## ▶️ Como usar
